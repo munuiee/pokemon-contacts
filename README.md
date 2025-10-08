@@ -2,7 +2,7 @@
 ![ ](https://github.com/user-attachments/assets/e5f1a4a3-ecf6-4692-a957-7511ff918de1)
 
 
-# pockemon-contacts
+# 👾 pockemon-contacts
 ## iOS 앱 개발 숙련 주차 과제 - 포켓몬 연락처 앱 만들기
 
 <br>
@@ -21,7 +21,7 @@ CoreData
 <br>
 
 ### 프로젝트 기간
-2025.09.26 - 
+2025.09.26 - 2025.10.02
 
 
 <br>
@@ -30,10 +30,12 @@ CoreData
 
 
 #### 트러블슈팅 모음
+[pokemon-contacts](https://github.com/users/munuiee/projects/5)
 
 <br>
 
 #### TIL
+[👾 포켓몬 연락처 앱 만들기 TIL](https://hachkoi.tistory.com/74)
 
 
 
