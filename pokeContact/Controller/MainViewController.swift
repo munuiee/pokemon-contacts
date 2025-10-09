@@ -6,7 +6,7 @@ class MainViewController: UIViewController {
     private let coreDataManager = CoreDataManager.shared
     private let listLabel = UILabel()
     private let addButton = UIButton()
-    let tableView = UITableView()
+    private let tableView = UITableView()
     private var didReloadOnce = false
     
     

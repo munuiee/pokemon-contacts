@@ -5,9 +5,9 @@ import SnapKit
 class TableViewCell: UITableViewCell {
     static let identifier = "TableViewCell"
     
-    let avatar = UIImageView()
-    let nameLabel = UILabel()
-    let contactLabel = UILabel()
+    private let avatar = UIImageView()
+    private let nameLabel = UILabel()
+    private let contactLabel = UILabel()
     
     private var imageTask: URLSessionDataTask?
     private var currentImageURL: URL?

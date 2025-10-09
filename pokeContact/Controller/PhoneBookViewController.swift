@@ -283,7 +283,7 @@ class PhoneBookViewController: UIViewController {
             CoreDataManager.shared.updateData(info: existingInfo, with: update)
             
         } else {
-            let finalURL = currentImageURL?.trimmingCharacters(in: .whitespacesAndNewlines)
+            _ = currentImageURL?.trimmingCharacters(in: .whitespacesAndNewlines)
 
             CoreDataManager.shared.createData(name: name, contact: contact, imageURL: imageURL)
             imageChanged = true
