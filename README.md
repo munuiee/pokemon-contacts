@@ -19,8 +19,8 @@ PokeContact
 │     └─ PhoneBookViewController
 │
 ├─ Delegate
-│	  ├─ AppDelegate
-│	  └─ SceneDelegate
+│     ├─ AppDelegate
+│     └─ SceneDelegate
 │
 ├─ Models
 │     ├─ CoreDataManager
@@ -30,7 +30,7 @@ PokeContact
 │     └─ Pokemon
 │
 ├─ Utils
-│	  └─ PhoneFormatter
+│     └─ PhoneFormatter
 │
 └─  View
       └─ TableViewCell
@@ -46,7 +46,7 @@ CoreData <br>
 <br>
 
 ### 📆 프로젝트 기간
-2025.09.26 - 2025.10.02
+2025.09.26 - 2025.10.09
 
 <br>
 
